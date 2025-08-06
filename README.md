@@ -1,10 +1,10 @@
 
 # 🎁 Ne Alsam? - Hediye Öneri Mobil Uygulaması
 
-![screenshot](./public/screenshots/ss1.png)
-![screenshot](./public/screenshots/ss2.png)
-![screenshot](./public/screenshots/ss3.png)
-![screenshot](./public/screenshots/ss4.png)
+![screenshot](./screenshots/ss1.jpg)
+![screenshot](./screenshots/ss2.jpg)
+![screenshot](./screenshots/ss3.jpg)
+![screenshot](./screenshots/ss4.jpg)
 
 
 Bu proje, Flutter kullanılarak geliştirilmiş bir mobil uygulamadır. Uygulamanın amacı, kullanıcıdan alınan bilgiler doğrultusunda **yapay zeka (Gemini API)** aracılığıyla kişiye özel hediye önerileri sunmaktır. Uygulama aynı zamanda her öneri için görsel arama yaparak kullanıcıya zengin bir deneyim sağlar. Kullanıcılar ayrıca önerilen ürünlere ait detaylı filtrelemeler yapabilir ve ilgili ürün sayfalarına yönlendirilir.
